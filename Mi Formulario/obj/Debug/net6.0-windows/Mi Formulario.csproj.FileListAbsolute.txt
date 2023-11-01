@@ -1,0 +1,16 @@
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.exe
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.deps.json
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.runtimeconfig.json
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.pdb
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi_Formulario.Form1.resources
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.csproj.GenerateResource.cache
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.GeneratedMSBuildEditorConfig.editorconfig
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.AssemblyInfoInputs.cache
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.AssemblyInfo.cs
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.csproj.CoreCompileInputs.cache
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\refint\Mi Formulario.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.pdb
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.genruntimeconfig.cache
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\ref\Mi Formulario.dll

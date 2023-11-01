@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario\\Mi Formulario.csproj",
+      "projectUniqueName": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj",
       "projectName": "Mi Formulario",
-      "projectPath": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario\\Mi Formulario.csproj",
+      "projectPath": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj",
       "packagesPath": "C:\\Users\\Lab15-PC01\\.nuget\\packages\\",
-      "outputPath": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario\\obj\\",
+      "outputPath": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lab15-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
