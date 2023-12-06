@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             miNombre = new Label();
             textDNI = new TextBox();
             miApellido = new Label();
@@ -37,6 +38,7 @@
             txbApellido = new TextBox();
             lblMiNombreCompleto = new Label();
             lblApellidoNombre = new Label();
+            lblPrueba = new Label();
             SuspendLayout();
             // 
             // miNombre
@@ -97,6 +99,7 @@
             txbApellido.Name = "txbApellido";
             txbApellido.Size = new Size(100, 23);
             txbApellido.TabIndex = 9;
+            txbApellido.TextChanged += txbApellido_TextChanged;
             // 
             // lblMiNombreCompleto
             // 
@@ -116,11 +119,20 @@
             lblApellidoNombre.TabIndex = 11;
             lblApellidoNombre.Text = "Aqui va a ir el nombre completo";
             // 
+            // lblPrueba
+            // 
+            lblPrueba.AutoSize = true;
+            lblPrueba.Location = new Point(684, 38);
+            lblPrueba.Name = "lblPrueba";
+            lblPrueba.Size = new Size(0, 15);
+            lblPrueba.TabIndex = 12;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(810, 450);
+            Controls.Add(lblPrueba);
             Controls.Add(lblApellidoNombre);
             Controls.Add(lblMiNombreCompleto);
             Controls.Add(txbApellido);
@@ -130,8 +142,10 @@
             Controls.Add(miApellido);
             Controls.Add(textDNI);
             Controls.Add(miNombre);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             Text = "Datos De Persona";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -139,7 +153,6 @@
         #endregion
 
         private Label miNombre;
-        private TextBox textBox1;
         private TextBox textBox2;
         private TextBox textBox3;
         private TextBox textDNI;
@@ -150,5 +163,6 @@
         private TextBox txbApellido;
         private Label lblMiNombreCompleto;
         private Label lblApellidoNombre;
+        private Label lblPrueba;
     }
 }

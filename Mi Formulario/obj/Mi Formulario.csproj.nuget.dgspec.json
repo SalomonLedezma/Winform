@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj": {}
+    "C:\\Users\\Lab15-PC01\\Desktop\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj": {}
   },
   "projects": {
-    "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj": {
+    "C:\\Users\\Lab15-PC01\\Desktop\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\Lab15-PC01\\Desktop\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj",
         "projectName": "Mi Formulario",
-        "projectPath": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj",
+        "projectPath": "C:\\Users\\Lab15-PC01\\Desktop\\Proyecto de app\\Mi Formulario\\Mi Formulario.csproj",
         "packagesPath": "C:\\Users\\Lab15-PC01\\.nuget\\packages\\",
-        "outputPath": "E:\\5° 17°\\Proyecto de app\\Mi Formulario\\obj\\",
+        "outputPath": "C:\\Users\\Lab15-PC01\\Desktop\\Proyecto de app\\Mi Formulario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lab15-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

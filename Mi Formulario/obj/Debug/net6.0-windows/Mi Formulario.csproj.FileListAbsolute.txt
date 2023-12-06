@@ -14,3 +14,58 @@ E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\refint\Mi For
 E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.pdb
 E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.genruntimeconfig.cache
 E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\ref\Mi Formulario.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\MySql.Data.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\ZstdSharp.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.csproj.AssemblyReference.cache
+E:\5° 17°\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.csproj.CopyComplete
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.exe
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.deps.json
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.runtimeconfig.json
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Mi Formulario.pdb
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.csproj.AssemblyReference.cache
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi_Formulario.Form1.resources
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.csproj.GenerateResource.cache
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.sourcelink.json
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.csproj.CopyComplete
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\refint\Mi Formulario.dll
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.pdb
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\Mi Formulario.genruntimeconfig.cache
+C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\obj\Debug\net6.0-windows\ref\Mi Formulario.dll

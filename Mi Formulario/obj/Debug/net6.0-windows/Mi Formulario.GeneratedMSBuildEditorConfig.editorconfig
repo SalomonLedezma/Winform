@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mi_Formulario
-build_property.ProjectDir = E:\5° 17°\Proyecto de app\Mi Formulario\
+build_property.ProjectDir = C:\Users\Lab15-PC01\Desktop\Proyecto de app\Mi Formulario\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
